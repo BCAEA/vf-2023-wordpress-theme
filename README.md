@@ -6,6 +6,5 @@ Boilerplate Blank WordPress Theme by TidyThemes was used as a base.
 
 LP's Events Modules Plugin is highly suggested.
 
-Theme Licensed under the GPL.
-
-Initial Commit. Will tidy up later. 
+The theme's code is licensed under the GPL.
+Image assets are property of their respective artists who reserve all rights. 
